@@ -3,9 +3,9 @@
 ## ECCPoW
 ### What is the ECCPoW?
 [Go to ECCPoW Repository](https://github.com/cryptoecc/ECCPoW)
-### What is the BTC-ECC
+### What is the BTC-ECC?
 [Go to BTC-ECC Repository](https://github.com/cryptoecc/bitcoin_ECC/tree/ecc-0.1.2)
-### What is the ETH-ECC
+### What is the ETH-ECC?
 [Go to ETH-ECC Repository](https://github.com/cryptoecc/go-ethereum_ECC/tree/eccpow-1.9)
 
 ## Lecture
