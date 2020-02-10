@@ -1,5 +1,5 @@
 # DeSecure
-## [About](https://Desecure.org)
+# [What is the DeSecure Blockchain?](https://Desecure.org)
 
 ## ECCPoW
 ### What is the ECCPoW?
